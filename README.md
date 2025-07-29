@@ -3,8 +3,6 @@ I’m Bruno, a specialist in logistics planning, developer, and data analyst foc
 
 Additionally, I work on creating automation solutions, integrating systems, and eliminating manual processes, which leads to efficiency and time savings for the companies I collaborate with. As a developer, I’m always learning new technologies and frameworks, staying up to date with market trends.
 
-In my spare time, I’m an ethical hacker, exploring the world of cybersecurity responsibly, focusing on system and data protection.
-
 With a passion for both technology and logistics, I strive to merge these two fields to deliver solutions that generate tangible results.
 
 Tools I work with:
