@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/syre-group-banner.jpeg" alt="Group Syre Tech Banner" width="100%" />
+  <img 
+    src="./assets/bannersyre.jpeg" 
+    alt="Group Syre Tech Banner" 
+    width="850"
+  />
 </p>
 
 <h1 align="center">Bruno Ramos</h1>
