@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1465500617026834504/1465500774237995234/WhatsApp_Image_2026-01-26_at_20.38.22.jpeg?ex=6a183234&is=6a16e0b4&hm=44ea4975ebe23b8489bc6ed19c7b6d815d9e5bfe32e79d2e27fb7332d26e1526&" alt="Syre Group Banner" width="100%" />
+  <img src="./assets/syre-group-banner.jpeg" alt="Group Syre Tech Banner" width="100%" />
 </p>
 
 <h1 align="center">Bruno Ramos</h1>
