@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://cdn.discordapp.com/attachments/1465500617026834504/1465502685493989549/Design_sem_nome.gif?ex=6a1833fb&is=6a16e27b&hm=73f9e24285825895bfe11a40b056d80d47fb7b2f2544c37b2afce38d47630641" 
+    src="/assets/Design sem nome.png" 
     alt="Group Syre Tech Banner" 
     width="850"
   />
